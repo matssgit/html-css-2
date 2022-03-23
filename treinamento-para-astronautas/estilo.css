@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(21, 21, 66);
+    color: white;
+}
+
+h3 {
+    color: yellow;
+}
+
+h3.days {
+    background-color: yellow;
+    color: black;
+    border: 2px solid black;
+}
+
+li.astronomy-class {
+    color: red;
+}
